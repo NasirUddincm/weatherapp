@@ -1,0 +1,21 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+    
+  #temperature {
+    font-weight: bold;
+    font-size: 50px;
+  }
+  #weather-icon {
+    width: 100px;
+    height: 100px;
+  }
+  
+  #error-message {
+    display: none;
+  }
